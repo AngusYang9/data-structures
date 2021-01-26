@@ -46,4 +46,9 @@ List 在处理**末尾操作**时很不错，但是 List 对于**非末尾操作
 
 那么，我们来看看另一个数据结构 Hash Table，它是如何在不操作内存地址的情况下增删改查的。
 
-- [Hash Tables 哈希表(散列)](/HashTables.md)
+- [Hash Table 哈希表(散列)](/HashTable.md)
+
+接下来，我们不再讨论内存，而是与数据的使用方式有关。
+
+- [Stack 栈](/Stack.md)
+

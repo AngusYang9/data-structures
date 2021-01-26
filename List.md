@@ -24,15 +24,13 @@
 列表是一个值有序排序的表示，其中相同的值可能出现多次。
 
 ```javascript
+// useage
 const list = new List()
-list.push('a')
-list.push('b')
-list.push('c')
+list.push('a') // ['a']
 list.get(0) // a
-list.pop() // c
-list.unshift('x') 
+list.pop() // a
+list.unshift('x') // ['x', 'a']
 list.shift() // x
-console.log(list) // a, b
 ```
 
 ```javascript
