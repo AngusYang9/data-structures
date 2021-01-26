@@ -68,6 +68,7 @@ class Queue {
   /**
    * Next is "dequeue", instead of removing the item from the end of the list,
    * we're going to remove it from the start.
+   * Big-O: O(N)
    */
 
   dequeue() {
