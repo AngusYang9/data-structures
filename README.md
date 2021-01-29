@@ -1,6 +1,6 @@
 <h1 align="center" style="margin: 30px 0 35px;">JavaScript Data Structures</h1>
 <p align="center">
-  <a href="https://travis-ci.com/AngusYang9/javascript-data-structures"><img src="https://travis-ci.com/AngusYang9/javascript-data-structures.svg?branch=master" /></a>
+  <a href="https://travis-ci.com/imyangyong/javascript-data-structures"><img src="https://travis-ci.com/imyangyong/javascript-data-structures.svg?branch=master" /></a>
 </p>
 
 [在线地址](https://www.imyangyong.com/javascript-data-structures)

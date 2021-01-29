@@ -14,7 +14,7 @@
     "edit-link", "todo", "copy-code-button", "alerts", "toggle-chapters", "custom-favicon"],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/AngusYang9/javascript-data-structures"
+      "url": "https://github.com/imyangyong/javascript-data-structures"
     },
     "tbfed-pagefooter": {
       "copyright":"Copyright &copy Angus Yang 2021",
@@ -29,7 +29,7 @@
       "skipFirstH1": true
     },
     "edit-link": {
-      "base": "https://github.com/AngusYang9/javascript-data-structures/blob/master",
+      "base": "https://github.com/imyangyong/javascript-data-structures/blob/master",
       "label": "Edit This Page"
     },
     "favicon": "assets/images/favicon.ico",
