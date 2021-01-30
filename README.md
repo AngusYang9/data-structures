@@ -54,3 +54,5 @@
   
 - [Tree 树](/Tree.md)
 
+- [Binary Search Tree 二叉查找树](/BinarySearchTree.md)
+

@@ -12,3 +12,4 @@
 * [Graph 图](Graph.md)
 * [Linked List 链表](LinkedList.md)
 * [Tree 树](Tree.md)
+* [Binary Search Tree 二叉查找树](BinarySearchTree.md)

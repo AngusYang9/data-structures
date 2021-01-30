@@ -51,7 +51,7 @@
 const linkedlist = new LinkedList()
 linkedlist.add('value1', 0)
 linkedlist.add('value2', 1)
-linkedlist.get(0) // value1
+linkedlist.get(0).value // value1
 linkedlist.remove(0)
 console.log(linkedlist) // { head: { value: value2, next: null }, length: 1 }
 ```
